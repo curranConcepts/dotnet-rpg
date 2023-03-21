@@ -1,4 +1,5 @@
 global using role_playing_game.models;
+global using role_playing_game.Models;
 global using role_playing_game.Services.CharacterService;
 
 var builder = WebApplication.CreateBuilder(args);
